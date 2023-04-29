@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "jordan air 1 retro",
+      "price": 30000,
+      "img": "https://i.ibb.co/8Df4Njd/jordaretro.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "name": "jordan air botas",
+      "price": 27000,
+      "img":"https://i.ibb.co/VYf5zpR/jordanbota.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 3,
+      "name": "nike air max",
+      "price": 28000,
+      "img": "https://i.ibb.co/y8h5rNc/airmax.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "name": "nike air blancas",
+      "price": 22000,
+      "img": "https://i.ibb.co/0cwB87C/nikeblanca.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 5,
+      "name": "nike air marrones",
+      "price": 26000,
+      "img": "https://i.ibb.co/6ZG17Gg/nikemarron.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 6,
+      "name": "nike running",
+      "price": 40000,
+      "img":"https://i.ibb.co/R3Yjbx6/nikerunning.jpg",
+      "quanty": 1
+    }
+  ]
+  
